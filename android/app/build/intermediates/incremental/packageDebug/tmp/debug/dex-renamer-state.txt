@@ -1,0 +1,4 @@
+#Thu Apr 04 14:19:16 SAMT 2019
+base.0=/Users/stanislav_emshanov/animationExample/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
